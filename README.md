@@ -1,4 +1,4 @@
-# Global Corn Heat Stress: Mean and SD of Crops Growing Degree Days based on NEX-GDDP-CMIP6 Climate Projections
+# Long-Term Mean and SD of Growing Degree Days based on NEX-GDDP-CMIP6 Climate Projections
 ## Description
 
 These scripts are used to estimate the mean and standard deviation (SD) of corn heat stress (degree days above 29°C) for around 20 climate models in NEX-GDDP-CMIP6.
